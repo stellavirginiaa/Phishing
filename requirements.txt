@@ -2,8 +2,3 @@ numpy
 pandas
 scikit-learn
 streamlit
-=======
-numpy
-pandas
-scikit-learn
-streamlit
