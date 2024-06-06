@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import streamlit as st
 import pickle
 import numpy as np
@@ -220,4 +219,3 @@ def output_result(prediction, url):
 
 if __name__ == "__main__":
     main()
->>>>>>> c36a4773dd0ad8dc8a028e0c95bc6f1a954bfce6
