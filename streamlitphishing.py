@@ -52,7 +52,7 @@ def calculate_ratio_digits(string):
     return digit_count / len(string)
 
 # Load the trained model
-with open('random_forest_model.pkl', 'rb') as model:
+with open('phishing_model_rf.pkl', 'rb') as model:
     loaded_model = pickle.load(model)
 
 # Streamlit App
